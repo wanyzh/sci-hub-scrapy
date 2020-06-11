@@ -2,6 +2,12 @@
 
 该软件是采用网络爬虫技术，利用sci-hub神器批量下载英文文献pdf文件，同时获取pdf下载地址及文献的检索信息。
 
+# 依赖
+
+* requests
+* Beautifulsoup4
+* lxml
+
 # 使用步骤及说明
 
 ## 填入doi号
